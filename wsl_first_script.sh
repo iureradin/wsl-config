@@ -2,4 +2,4 @@
 
 sudo apt update -y
 
-apt install nano vim htop nmap tcpdump net-tools git -y
+apt install nano vim htop nmap tcpdump net-tools git zsh -y
