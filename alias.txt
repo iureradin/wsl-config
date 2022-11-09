@@ -1,4 +1,1 @@
-alias "atalho"="comando"
-
-#exemplo
-alias server1="ssh root@192.168.0.5"
+alias naruto="ssh root@192.168.25.70"
